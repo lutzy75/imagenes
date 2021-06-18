@@ -3,9 +3,12 @@
     padding: 0;
 }
 
-
+h1{
+    text-align: center;
+    
+}
 body {
-  background: #eee;
+  background: rgb(245, 243, 138);
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #000;
